@@ -1,0 +1,7 @@
+{
+  "name": "StyleSwap: Virtual Wardrobe Stylist",
+  "description": "AI-powered fashion assistant that analyzes your outfits and suggests accessories, color combinations, and occasions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
